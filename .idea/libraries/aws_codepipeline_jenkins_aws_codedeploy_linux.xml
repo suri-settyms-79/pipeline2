@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="aws-codepipeline-jenkins-aws-codedeploy_linux">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/aws-codepipeline-jenkins-aws-codedeploy_linux.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
